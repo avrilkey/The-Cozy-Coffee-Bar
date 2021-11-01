@@ -1,0 +1,81 @@
+/*Menu Page CSS*/
+body {
+    background-color: #b85a23;
+    background-image: url('../images/main/3.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+/*Navigation Bar Container*/
+.container { 
+    font-family: 'Sanchez', serif;
+    font-size: 15.5px; 
+    margin-left: 7%;
+    width: 85%;
+    padding: 8px;
+}
+.container .navigation {
+    text-align: right;
+    text-decoration: none;
+    margin-right: -5%;
+    margin-top: -3%;
+    word-spacing: 14px;
+}
+
+
+.container .logo {
+    margin-left: -6%;
+}
+
+.navigation a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    color: #33463b;
+  }
+
+/*Menu Section*/
+.menu h1{
+    color: #d29e69;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 900;
+    font-size: 65px;
+    margin-left: 56%; 
+    margin-top: 5%;
+}
+
+.menu table {
+    margin-left: 40%;
+}
+
+.menu th{
+    color: #000000;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 800;
+    font-size: 19px;
+    text-align: left;
+    text-decoration: underline;
+}
+
+.menu td{
+    color: #ffffff;
+    font-family: 'Sanchez', serif;
+    
+}
+
+.menu th, td{
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+.footer {
+    margin-top: 2%;
+    margin-left: 7%;
+    width: 85%;
+    padding: 8px;
+    text-align: center;
+}
