@@ -1,0 +1,94 @@
+/*Menu Page CSS*/
+body {
+    background-color:#b85a23;
+    background-repeat: no-repeat;
+}
+
+/*Navigation Bar Container*/
+.container { 
+    font-family: 'Sanchez', serif;
+    font-size: 15.5px; 
+    margin-left: 7%;
+    width: 85%;
+    padding: 8px;
+}
+.container .navigation {
+    text-align: right;
+    text-decoration: none;
+    margin-right: -5%;
+    margin-top: -3%;
+    word-spacing: 14px;
+}
+
+.container .logo p{
+    margin-left: -6%;
+}
+
+.navigation a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    color: #d29e69;
+  }
+
+ /*H1*/ 
+h1{
+    color: #d29e69;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 900;
+    font-size: 72px;
+    margin-left: 13%;
+    margin-top: 6%;
+}
+
+/*Image*/
+ img{
+     border: 2.5px solid #d29e69;
+     border-radius: 15px;
+     position: absolute;
+     width: 40%;
+     margin-top: -2%;
+     margin-left: 2%;
+ }
+
+
+/*Menu Section*/
+.menu table {
+    margin-left: 48%;
+    margin-top: -9%;
+}
+
+th{
+    color: #000000;
+    font-family: 'Spartan', sans-serif;
+    font-size: 29px;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+td{
+    color: #ffffff;
+    font-family: 'Sanchez', serif;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+.cold-drinks, .bakery {
+    margin-top: 11%; 
+}
+
+/*Footer*/
+.footer {
+    margin-top: 2%;
+    margin-left: 7%;
+    width: 85%;
+    padding: 8px;
+    text-align: center;
+}
