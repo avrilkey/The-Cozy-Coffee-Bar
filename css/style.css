@@ -1,0 +1,104 @@
+/*Home Page CSS*/
+body {
+    background-color: #b85a23;
+}
+
+/*Header image*/
+.top img{
+ border: 4px solid #d29e69;
+ border-radius: 15px;
+ background-image: url('../images/main/1.png');
+ background-repeat: no-repeat;
+ width: 92%;
+ margin-top: 3%;
+ margin-left: 3.5%;
+ 
+}
+
+/*Navigation Bar Container*/
+.container { 
+    font-family: 'Sanchez', serif;
+    font-size: 15.5px;
+    margin-left: 7%;
+    width: 85%;
+    padding: 10px; 
+}
+
+.container .navigation {
+    text-align: right;
+    text-decoration: none;
+    margin-right: -5%;
+    margin-top: -3%;
+    word-spacing: 14px;
+}
+
+.container .logo {
+    margin-left: -6%;
+}
+
+.navigation a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    color: #d29e69;
+  }
+
+  /*Horizontal Line*/
+hr {
+    color: #000000;
+    margin-top: -57%;
+    margin-bottom: 7%;
+    width: 50%;
+}
+
+/*About Us Section*/
+#about-section{
+ height: 600px;
+ margin-top: 25%;
+}
+
+#about-section h1{
+    color: #d29e69;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 900;
+    font-size: 65px;
+    margin-left: 14%;
+    margin-bottom: -.5%;
+    margin-top: 6%;  
+}
+
+#about-section p {
+    font-family: 'Sanchez',serif;
+    font-size: 21px;
+    color: #000000;
+    line-height: 40px;
+    margin-left: 3%;
+    width: 45%;
+    text-indent: 50;
+    text-align: justify;
+}
+
+#about-image{
+    width: 32%;
+    margin-left: 60%;
+    margin-top: -5%;
+    text-align: right;
+}
+
+#about-image img{
+    width: 100%;
+}
+
+/*Footer*/
+.footer {
+    margin-top: 2%;
+    margin-left: 7%;
+    width: 85%;
+    padding: 8px;
+    text-align: center;
+  }
+
+  
+
