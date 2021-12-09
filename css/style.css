@@ -5,8 +5,7 @@ body {
 
 /*Header image*/
 .top img{
- border: 4px solid #d29e69;
- border-radius: 15px;
+ border: 2px solid #d29e69;
  background-image: url('../images/main/1.png');
  background-repeat: no-repeat;
  width: 92%;
@@ -74,7 +73,7 @@ hr {
     font-size: 21px;
     color: #000000;
     line-height: 40px;
-    margin-left: 3%;
+    margin-left: 6%;
     width: 45%;
     text-indent: 50;
     text-align: justify;
